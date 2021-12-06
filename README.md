@@ -1,6 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dongwhee%Kim&fontSize=90)
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
+![footer](https://capsule-render.vercel.app/api?section=footer)
+
 
 <!--
 **dongwheekeem/dongwheekeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
