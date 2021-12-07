@@ -1,8 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dongwhee%20Kim&fontSize=90)
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-
-![footer](https://capsule-render.vercel.app/api?section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF33BE,100:3333FF&height=250&section=header&text=Dongwhee%20Kim&fontAlignY=42&desc=Front-end%20Developer&descAlign=66&&descAlignY=55&fontSize=68&&animation=twinkling)
 
 
 <!--
